@@ -19,7 +19,7 @@ $ iqrsh -l h_rt=<time>
 ### On interactive node
 ```
 $ screen
-$ cd ${HOME}/.t3_measument
+$ cd ${HOME}/.t3_measure
 $ ./measure.sh
 NODEID: r7i7n6
 ...
